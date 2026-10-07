@@ -17,6 +17,7 @@ export default function RootLayout({
   return (
     <html lang="ru" className="bg-background">
       <head>
+        <meta name="yandex-verification" content="c78ed6d78bfdc280" />
         <meta name="viewport" content="width=device-width, initial-scale=1" />
         <meta name="theme-color" content="#0e4a56" />
         <meta name="format-detection" content="telephone=no" />
